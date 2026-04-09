@@ -16,3 +16,6 @@ downloaded_*.dat
 # OS
 .DS_Store
 Thumbs.db
+
+.cache/
+.claude/
