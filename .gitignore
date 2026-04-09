@@ -1,0 +1,18 @@
+# Build output
+build/
+cmake-build-*/
+
+# Downloaded/generated files
+downloaded_*.dat
+*.log
+*.pid
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
